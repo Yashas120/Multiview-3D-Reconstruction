@@ -28,5 +28,6 @@ Call the object sfm_1 with optional parameter enable_bundle_adjustment (Takes a 
 
 An example is provided in the sfm.py main function.
 
+Open the .ply file using Meshlab present in . `\res` directory
 
 
