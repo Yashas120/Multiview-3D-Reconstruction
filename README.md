@@ -2,6 +2,8 @@
 
 The demo of the project: https://www.youtube.com/watch?v=zkdbnCG7ACQ
 
+Our Paper: [Multiview-3D-Reconstruction](https://github.com/Abhishek-Aditya-bs/MultiView-3D-Reconstruction/blob/main/Reports/Final%20Paper.pdf)
+
 # Introduction
 
 <p align="center">
