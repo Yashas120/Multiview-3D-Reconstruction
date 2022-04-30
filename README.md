@@ -32,6 +32,6 @@ Open the .ply file using Meshlab present in . `\res` directory
 
 Datasets are also present in the `/Datasets` directory
 
-A few runs are present in the `\res` directory as well
+A few runs are present in the `/res` directory as well
 
 
