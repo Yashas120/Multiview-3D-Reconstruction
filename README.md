@@ -82,32 +82,3 @@ This work presents an implementation of the incremental SFM algorithm using line
 
 # LICENSE
 MIT
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Datasets are also present in the `/Datasets` directory
-
-A few runs are present in the `/res` directory as well
-
-
